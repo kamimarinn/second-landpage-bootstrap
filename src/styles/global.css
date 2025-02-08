@@ -1,8 +1,9 @@
 /* set de variaveis; para criar variaveis no css; ideia do root não é repetir */
 
-*root{
-    --variable-example:black;
+:root {
+    --variable-example: black;
 }
+
 
 /* reset do css; como resetar algo no css */
 
